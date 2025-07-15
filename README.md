@@ -6,7 +6,16 @@
 
 In this project I implemented a car price prediction using linear regression with regularization (ridge regression)
 
+Link to the data used in the project from the kaggle website:
+
 Remark: comments in the code will be written in Russian
 
 ## IDA, feature transformation and ML model development
 [main](main.ipynb) - The main code of the program is presented in this notebook. I performed reconnaissance analysis of the data, encoded the features of the object type and manually implemented a linear regression model with regularization.
+
+## Result
+The trained model was tested on a special set of test data and showed the following metric values:
+- RMSE - 0.464
+- MAE - 12078.498
+
+At this stage, the model shows poor quality, and improvements are planned.
