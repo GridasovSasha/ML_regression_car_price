@@ -6,7 +6,7 @@
 
 In this project I implemented a car price prediction using linear regression with regularization (ridge regression)
 
-Link to the data used in the project from the kaggle website:
+Link to the data used in the project from the kaggle website: https://www.kaggle.com/datasets/CooperUnion/cardataset
 
 Remark: comments in the code will be written in Russian
 
