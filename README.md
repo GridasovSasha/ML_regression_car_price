@@ -15,7 +15,6 @@ Remark: comments in the code will be written in Russian
 
 ## Result
 The trained model was tested on a special set of test data and showed the following metric values:
-- RMSE - 0.464
-- MAE - 12078.498
+- MAPE: 36%
 
-At this stage, the model shows poor quality, and improvements are planned.
+At this stage, the model shows low quality and is planned to be improved
